@@ -28,3 +28,10 @@ curl http://localhost:8000/v1/completions -H "Content-Type:application/json" -d 
 
 詳細は以下を参照  
 https://github.com/lm-sys/FastChat/blob/main/docs/openai_api.md
+
+## 記事
+
+- [賢いと噂の日本語LLM「ELYZA」をウェブAPIで使う！ Power Automateなどからも呼び出せる完全ローカル環境の構築【イニシャルB】 - INTERNET Watch](https://internet.watch.impress.co.jp/docs/column/shimizu/1533974.html)(2023-10-10)
+- [NAS+ChatGPTで、共有フォルダーの文書をもとに回答するAIチャットを作る【イニシャルB】 - INTERNET Watch](https://internet.watch.impress.co.jp/docs/column/shimizu/1536506.html)(2023-10-16)
+- [AIが「理解」するから、API仕様書のコピペでアプリができあがるローコード開発環境「Flowise」を試す【イニシャルB】 - INTERNET Watch](https://internet.watch.impress.co.jp/docs/column/shimizu/1523766.html)(2023-08-21)
+
